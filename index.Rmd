@@ -1,0 +1,28 @@
+---
+title: "Ari Badia"
+image: "yo_rosa.jpeg"
+links:
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://x.com/Theoddaricave?t=paz2w97oD3m4OX6v5IQ5wA&s=09"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/AriBadia"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "thewizardari@gmail.com"
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+
+Hi there 👋 I’m Ari Badia
+
+    🧬 I’m a Genomic Sciences student.
+    🎗️ I’m interested in genomics in organs affected by cancer.
+    🔬 I study melanoma histopathology in a cancer laboratory.
+    📫 How to reach me: thewizardari@gmail.com
+    ⚡ Fun fact: I love swimming. 🏊
