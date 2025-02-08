@@ -8,6 +8,11 @@ links:
     url: "https://github.com/AriBadia"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "thewizardari@gmail.com"
+  - label: '`r fontawesome::fa(name = "flask", fill = "steelblue")` CV'
+    url: "AriBadia_cv.pdf"
+  - label: '`r fontawesome::fa(name = "suitcase", fill = "steelblue")` CV'
+    url: "repositoriogithub.html"
+    
 output:
   postcards::jolla
 ---
@@ -26,3 +31,6 @@ Hi there 👋 I’m Ari Badia
     🔬 I study melanoma histopathology in a cancer laboratory.
     📫 How to reach me: thewizardari@gmail.com
     ⚡ Fun fact: I love swimming. 🏊
+
+
+
